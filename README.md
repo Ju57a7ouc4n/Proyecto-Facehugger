@@ -5,6 +5,7 @@ Facehugger es un proyecto de malware educativo orientado a la investigación y f
 Este proyecto ha sido desarrollado con fines exclusivamente académicos y experimentales, como parte de mi portafolio personal en ciberseguridad ofensiva, y está destinado únicamente a ser ejecutado en entornos de laboratorio controlados.
 
 🧠 Funcionalidades destacadas
+
    🧬 Infección por shortcut: manipula accesos directos a ejecutables para redirigir la ejecución inicial a código insertado.
 
   🪄 Inyección de código malicioso (harmless): implementado en C y ensamblador.
