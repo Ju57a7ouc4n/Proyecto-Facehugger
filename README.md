@@ -22,6 +22,7 @@ El autor **no se hace responsable** por cualquier daño, pérdida de informació
 Actualmente, Facehugger está en desarrollo, por lo que en el siguiente *roadmap* marco las metas alcanzadas y por alcanzar:
 
 Facehugger:
+
     - ✅ Reconocimiento de accesos directos y ejecutables en una carpeta.  
     - ✅ Gestión y análisis de accesos directos.  
     - ✅ Obtención de rutas absolutas de ejecutables a través de sus accesos directos.  
