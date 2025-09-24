@@ -29,6 +29,7 @@ Facehugger:
     - ⬜ Creación de *code caves* en archivos ejecutables.
 
 Mother:
+
     - ✅ Embeber mother con facehuggers.  
     - ✅ Capacidad de ejecutar facehuggers en el escritorio de la victima. 
     - ⬜ Creación de un proceso keylogger en .../drivers/colors.
